@@ -1,3 +1,5 @@
 Las partes del ordenad se clas e3n hard y soft
 Cuando hablamos de hard nos refer:
 mouse,hajsaa
+los perifericos son el teclado,mouse, etc
+Los disp de salida son: monitor impresora,etc
